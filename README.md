@@ -7,11 +7,15 @@
   ## Table of Contents
   - [Description](#description)
   - [Usage](#usage)
+  - [Deployment](#deployment)
   - [License](#lincense)
   - [Questions](#questions)
 
   ## Usage
   You can use this to edit text
+
+  ## Deployment
+  https://hw-19-text-editor.herokuapp.com/
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
