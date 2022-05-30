@@ -2,7 +2,7 @@
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
   ## Description
-  This is a Text Editor that functions offline and is downloadable. 
+  This is a Text Editor that runs in the browser and is downloadable. 
 
   ## Table of Contents
   - [Description](#description)
