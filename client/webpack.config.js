@@ -14,17 +14,17 @@ module.exports = () => {
       install: './src/js/install.js'
     },
     output: {
-      filename: 'bundle.js',
+      filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'IndexedDB Demo'
+        title: 'J.A.T.E'
       }),
       new InjectManifest({
-        swSrc: './src/sw.js',
-        swDest: 'service-worker.js',
+        swSrc: './src-sw.js',
+        swDest: './src/js/install.js',
       }),
       new WebpackPwaManifest({
         fingerprints: false,
