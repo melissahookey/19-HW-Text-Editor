@@ -1,4 +1,5 @@
 <h1>Text Editor</h1>
+
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
   ## Description
